@@ -10,5 +10,5 @@ Running this file will give a promt suggesting two opptions: train and test. <br
 ### Training
 When train, an agent will be trained. The corresponding hyperparameters can be chosen in main, although the stock hyperparameters already give sufficient results.
 
-### Testomg
+### Testing
 When testing, the Agent performes an episode which is rendered to the human, where all actions are chosen optimal. For this process, the Q-Matrix from the last training process will be used. The stock Q-Matrix already gives sufficient results.
